@@ -3,6 +3,7 @@
 /public/storage
 /storage/*.key
 /vendor
+/udemy-course-blog-template-files-master
 .env
 .env.backup
 .phpunit.result.cache
